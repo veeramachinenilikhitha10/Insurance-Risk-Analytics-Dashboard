@@ -4,7 +4,7 @@ Insurance Claims and Risk Analytics Dashboard using Power BI, SQL, Python, and E
 
 Introduction
 
-As a Data Analyst, I developed an interactive Insurance Risk Analytics Dashboard using Power BI, SQL, Python, and Excel to analyze policy performance, claim trends, customer sentiment, and business risk indicators. The objective was to transform raw insurance data into actionable insights that support decision-making, customer experience improvement, and risk monitoring.
+Developed an interactive Insurance Risk Analytics Dashboard using Power BI, SQL, Python, and Excel to analyze policy performance, claim trends, customer sentiment, and business risk indicators. The objective was to transform raw insurance data into actionable insights that support decision-making, customer experience improvement, and risk monitoring.
 
 Business Requirements
 
